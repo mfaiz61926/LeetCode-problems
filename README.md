@@ -6,14 +6,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Greedy
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sorting
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Math
 |  |
 | ------- |
