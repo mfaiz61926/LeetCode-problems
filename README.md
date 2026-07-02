@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3975-filter-occupied-intervals) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3976-maximum-subarray-sum-after-multiplier) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Greedy
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3976-maximum-subarray-sum-after-multiplier) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,8 +59,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
+## Shortest Path
+|  |
+| ------- |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 <!---LeetCode Topics End-->
