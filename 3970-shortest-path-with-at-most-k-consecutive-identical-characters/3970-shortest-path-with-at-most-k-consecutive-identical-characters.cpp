@@ -20,13 +20,13 @@ public:
             if(cnt > k) continue;
 
             for(auto &[v, w] : adj[u]){
-                int x;
-                if(labels[u] == labels[v]) x = cnt + 1;
-                else x = 1;
-                if(x > k) continue;
-                if(dis + w < dist[v][x]){
-                    dist[v][x] = dis + w;
-                    pq.push({dist[v][x], v, x});
+                int newCnt;
+                if(labels[u] == labels[v]) newCnt = cnt + 1;
+                else newCnt = 1;
+                if(newCnt > k) continue;
+                if(dis + w < dist[v][newCnt]){
+                    dist[v][newCnt] = dis + w;
+                    pq.push({dist[v][newCnt], v, newCnt});
                 }
             }
         }
