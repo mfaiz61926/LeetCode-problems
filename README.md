@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3620-network-recovery-pathways) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3620-network-recovery-pathways) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
