@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0055-jump-game) |
+| [1301-number-of-paths-with-max-score](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0055-jump-game) |
+| [1301-number-of-paths-with-max-score](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
