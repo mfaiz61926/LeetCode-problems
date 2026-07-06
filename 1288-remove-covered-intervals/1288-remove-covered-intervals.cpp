@@ -15,12 +15,7 @@ public:
             if(ans.back()[1] >= range[i][1]) continue;
             else ans.push_back(range[i]);
         }
-        for(auto i : ans){
-            for(auto it : i){
-                cout << it << " ";
-            }
-            cout << endl;
-        }
+        
         return ans.size();
 
     }
