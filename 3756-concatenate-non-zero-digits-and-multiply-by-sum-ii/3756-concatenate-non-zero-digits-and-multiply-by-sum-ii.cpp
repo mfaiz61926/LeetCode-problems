@@ -41,7 +41,8 @@ public:
             if(l == 0) number = num[r];
             else {
                 number = (num[r] - num[l - 1] * pow10[digits]) % MOD;
-                if (number < 0) number += MOD;
+                // if (number < 0) number += MOD;
+                number = (number % MOD + MOD) % MOD;
             }
 
             ans.push_back(number * sum1 % MOD);
