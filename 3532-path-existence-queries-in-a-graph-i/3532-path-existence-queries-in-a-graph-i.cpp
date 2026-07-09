@@ -1,73 +1,81 @@
-class DSU {
-    public:
-        vector<int>parent, size;
-        DSU(int n){
-            parent.resize(n + 1);
-            size.resize(n + 1);
+class DisjointSet {
 
-            for(int i = 0; i <= n; i++){
-                parent[i] = i;
-                size[i] = 1;
-            }
+public:
+    vector<int> rank, parent, size;
+    DisjointSet(int n) {
+        rank.resize(n + 1, 0);
+        parent.resize(n + 1);
+        size.resize(n + 1);
+        for (int i = 0; i <= n; i++) {
+            parent[i] = i;
+            size[i] = 1;
         }
+    }
 
-        int findUPar(int node){
-            if(parent[node] == node) return node;
-            return parent[node] = findUPar(parent[node]);
+    int findUPar(int node) {
+        if (node == parent[node])
+            return node;
+        return parent[node] = findUPar(parent[node]);
+    }
+
+    void unionByRank(int u, int v) {
+        int ulp_u = findUPar(u);
+        int ulp_v = findUPar(v);
+        if (ulp_u == ulp_v)
+            return;
+        if (rank[ulp_u] < rank[ulp_v]) {
+            parent[ulp_u] = ulp_v;
+        } else if (rank[ulp_v] < rank[ulp_u]) {
+            parent[ulp_v] = ulp_u;
+        } else {
+            parent[ulp_v] = ulp_u;
+            rank[ulp_u]++;
         }
+    }
 
-        void unite(int u, int v){
-            int up = findUPar(u);
-            int vp = findUPar(v);
-
-            if(up == vp) return;
-
-            if(size[up] > size[vp]){
-                parent[vp] = up;
-                size[up] += size[vp];
-            }
-            else {
-                parent[up] = vp;
-                size[vp] += size[up];
-            }
+    void unionBySize(int u, int v) {
+        int ulp_u = findUPar(u);
+        int ulp_v = findUPar(v);
+        if (ulp_u == ulp_v)
+            return;
+        if (size[ulp_u] < size[ulp_v]) {
+            parent[ulp_u] = ulp_v;
+            size[ulp_v] += size[ulp_u];
+        } else {
+            parent[ulp_v] = ulp_u;
+            size[ulp_u] += size[ulp_v];
         }
+    }
 };
 
 class Solution {
 public:
-    int bs(vector<int>&nums, int val){
-        int n = nums.size();
-        int ans = -1; 
-        int low = 0, high = n - 1;
-        while(low <= high){
-            int mid = low + (high - low) / 2;
-            if(nums[mid] <= val){
-                ans = mid;
-                low = mid + 1;
+    vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff,
+                                      vector<vector<int>>& queries) {
+        // int n=nums.size();
+        DisjointSet ds(n);
+        // vector<int>adj[n];
+        int j = 0;
+        for (int i = 0; i < n; i++) {
+            while (j < n && nums[j] - nums[i] <= maxDiff) {
+                if (i != j) {
+                    if (ds.findUPar(i) != ds.findUPar(j)) {
+                        ds.unionBySize(i, j);
+                    }
+                }
+                j++;
             }
-            else high = mid - 1;
-        }
-        return ans;
-    }
-    vector<bool> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
-
-        DSU ds(n + 1);
-
-        for(int i = 0; i < n; i++){
-            int val = nums[i] + maxDiff;
-            int idx = bs(nums, val);
-            if(idx == -1) continue;
-            // for(int j = i; j <= idx; j++){
-            //     ds.unite(i, j);
-            // }
-            ds.unite(i, idx);
         }
 
         vector<bool> ans;
-        for(auto &it : queries){
-            int u = it[0], v = it[1];
-            if(ds.findUPar(u) == ds.findUPar(v)) ans.push_back(true);
-            else ans.push_back(false);
+        for (auto it : queries) {
+            int u = it[0];
+            int v = it[1];
+            if (ds.findUPar(u) == ds.findUPar(v)) {
+                ans.push_back(true);
+            } else {
+                ans.push_back(false);
+            }
         }
         return ans;
     }
