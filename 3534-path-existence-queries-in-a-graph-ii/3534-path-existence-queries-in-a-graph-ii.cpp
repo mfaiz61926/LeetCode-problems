@@ -25,16 +25,14 @@ public:
             reach[i]=idx;
         }
 
-        const int LOG=20;
+        int LOG = 20;
+        vector<vector<int>> up(n, vector<int>(LOG));
+        for(int i = 0; i < n; i++)
+            up[i][0] = reach[i];
 
-        vector<vector<int>> up(LOG, vector<int>(n));
-
-        for(int i=0;i<n;i++)
-            up[0][i]=reach[i];
-
-        for(int k=1;k<LOG;k++){
-            for(int i=0;i<n;i++){
-                up[k][i]=up[k-1][ up[k-1][i] ];
+        for(int j = 1; j < LOG; j++){
+            for(int i = 0; i < n; i++){
+                up[i][j] = up[ up[i][j - 1] ][j - 1];
             }
         }
 
@@ -57,19 +55,18 @@ public:
                 continue;
             }
 
-            int cur=l;
-            int steps=0;
+            int cur = l;
+            int steps = 0;
 
-            for(int k=LOG-1;k>=0;k--){
-                if(up[k][cur]<r){
-                    if(up[k][cur]==cur) continue;
-                    cur=up[k][cur];
-                    steps+=(1<<k);
+            for(int j = LOG - 1; j >= 0; j--){
+                if(up[cur][j] < r){
+                    cur = up[cur][j];
+                    steps += (1 << j);
                 }
             }
 
-            if(reach[cur]>=r)
-                ans.push_back(steps+1);
+            if(reach[cur] >= r)
+                ans.push_back(steps + 1);
             else
                 ans.push_back(-1);
         }
