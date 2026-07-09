@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3620-network-recovery-pathways) |
+| [3660-jump-game-ix](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3660-jump-game-ix) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3975-filter-occupied-intervals) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3620-network-recovery-pathways) |
+| [3660-jump-game-ix](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3976-maximum-subarray-sum-after-multiplier) |
