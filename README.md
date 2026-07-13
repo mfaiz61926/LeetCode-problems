@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1696-jump-game-vi](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1696-jump-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1995-count-special-quadruplets](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1995-count-special-quadruplets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1696-jump-game-vi](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1696-jump-game-vi) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1696-jump-game-vi](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1696-jump-game-vi) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3620-network-recovery-pathways) |
@@ -198,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1696-jump-game-vi) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
