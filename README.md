@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1291-sequential-digits) |
 | [1995-count-special-quadruplets](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1995-count-special-quadruplets) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
