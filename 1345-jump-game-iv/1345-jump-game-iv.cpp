@@ -9,7 +9,6 @@ public:
         }
 
         queue<pair<int,int>>q;
-        // priority_queue<pair<int,int>, vector<pair<int,int>>, greater<>>q;
         vector<int>vis(n, 0);
         q.push({0, 0});
         vis[0] = 1;
