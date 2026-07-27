@@ -38,7 +38,7 @@ public:
                         vis[idx] = 1;
                     }
                 }
-                mp[arr[i]].clear();
+                mp[arr[i]].clear(); // important optimization
             }
         }
         return -1;
