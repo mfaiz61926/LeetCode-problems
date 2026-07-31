@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0055-jump-game) |
 | [0312-burst-balloons](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0312-burst-balloons) |
+| [0334-increasing-triplet-subsequence](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0454-4sum-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0454-4sum-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
