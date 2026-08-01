@@ -12,14 +12,10 @@ public:
         
         int cnt = 0;
         for(int i = 0; i < n; i++){
-            for(int c = 0; c <= 10; c++){
-                if(freq[i][c] > i){
-                    cnt++;
-                    break;
-                }
-            }
+            int mx = *max_element(freq[i].begin(), freq[i].end());
+            if(mx > i) cnt++;
         }
-        
+
         return cnt;
     }
 };
