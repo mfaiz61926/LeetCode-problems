@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
@@ -300,4 +302,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0486-predict-the-winner) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
