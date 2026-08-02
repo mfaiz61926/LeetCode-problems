@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0741-cherry-pickup](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0741-cherry-pickup) |
+| [0877-stone-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1043-partition-array-for-maximum-sum) |
 | [1288-remove-covered-intervals](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2827-number-of-beautiful-integers-in-the-range) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0741-cherry-pickup](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0741-cherry-pickup) |
+| [0877-stone-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1043-partition-array-for-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1463-cherry-pickup-ii) |
@@ -305,5 +308,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0877-stone-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
