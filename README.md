@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
+| [0572-subtree-of-another-tree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [1306-jump-game-iii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1306-jump-game-iii) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -320,8 +321,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
+| [0572-subtree-of-another-tree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
+| [0572-subtree-of-another-tree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
