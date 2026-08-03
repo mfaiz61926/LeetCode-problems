@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [0454-4sum-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0454-4sum-ii) |
+| [0508-most-frequent-subtree-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [1306-jump-game-iii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1306-jump-game-iii) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -314,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1563-stone-game-v) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Tree
+|  |
+| ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 <!---LeetCode Topics End-->
