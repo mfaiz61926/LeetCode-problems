@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    map<int,int>mp;
+    unordered_map<int,int>mp;
     int f(TreeNode* root){
         if(!root) return 0;
         int left = f(root->left);
@@ -20,7 +20,7 @@ public:
         int sum = left + right + root->val;
         mp[sum]++;
 
-        return  left + right + root->val;
+        return  sum;
     }
     vector<int> findFrequentTreeSum(TreeNode* root) {
         mp.clear();
