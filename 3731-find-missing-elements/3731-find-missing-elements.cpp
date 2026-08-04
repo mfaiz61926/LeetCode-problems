@@ -4,10 +4,11 @@ public:
         int n = nums.size();
         vector<int>ans;
         sort(nums.begin(), nums.end());
-        set<int>st;
-        for(auto &i : nums) st.insert(i);
-        for(int i = nums[0]; i <= nums[n - 1]; i++){
-            if(st.find(i) == st.end()) ans.push_back(i);
+
+        for(int i = 1; i < n; i++){
+            for(int j = nums[i - 1] + 1; j < nums[i]; j++){
+                ans.push_back(j);
+            }
         }
         return ans;
     }
