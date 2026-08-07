@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0741-cherry-pickup](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0877-stone-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0018-4sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0018-4sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0155-min-stack) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
 ## Recursion
@@ -309,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting Sort
 |  |
