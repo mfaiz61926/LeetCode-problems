@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1995-count-special-quadruplets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
