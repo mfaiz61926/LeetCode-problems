@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1995-count-special-quadruplets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
