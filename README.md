@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [1306-jump-game-iii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1306-jump-game-iii) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Strongly Connected Component
@@ -394,12 +395,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String Matching
 |  |
 | ------- |
