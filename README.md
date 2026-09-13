@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0741-cherry-pickup](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0741-cherry-pickup) |
+| [0835-image-overlap](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1043-partition-array-for-maximum-sum) |
 | [1288-remove-covered-intervals](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1288-remove-covered-intervals) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0741-cherry-pickup](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0741-cherry-pickup) |
+| [0835-image-overlap](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1463-cherry-pickup-ii) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
