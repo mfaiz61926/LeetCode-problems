@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1696-jump-game-vi) |
 | [1872-stone-game-viii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1872-stone-game-viii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2211-count-collisions-on-a-road) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0018-4sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
