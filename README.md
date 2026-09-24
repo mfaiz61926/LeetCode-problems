@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3660-jump-game-ix) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
