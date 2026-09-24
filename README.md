@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1563-stone-game-v) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1696-jump-game-vi](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1696-jump-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1872-stone-game-viii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1995-count-special-quadruplets](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1995-count-special-quadruplets) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -220,12 +222,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
