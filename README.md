@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0076-minimum-window-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
