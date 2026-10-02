@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0239-sliding-window-maximum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0454-4sum-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0454-4sum-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1696-jump-game-vi](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1696-jump-game-vi) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -387,10 +390,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [1696-jump-game-vi](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1696-jump-game-vi) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [1696-jump-game-vi](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1696-jump-game-vi) |
 ## Number Theory
 |  |
@@ -484,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
