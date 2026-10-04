@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0055-jump-game) |
 | [0312-burst-balloons](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0312-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1043-partition-array-for-maximum-sum) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0076-minimum-window-substring) |
+| [0678-valid-parenthesis-string](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
