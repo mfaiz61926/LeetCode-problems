@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0076-minimum-window-substring) |
+| [0301-remove-invalid-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1106-parsing-a-boolean-expression) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0513-find-bottom-left-tree-value](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [1306-jump-game-iii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1345-jump-game-iv) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0077-combinations) |
+| [0301-remove-invalid-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Geometry
 |  |
