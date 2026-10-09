@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0877-stone-game) |
+| [0968-binary-tree-cameras](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0968-binary-tree-cameras) |
 | [1043-partition-array-for-maximum-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1043-partition-array-for-maximum-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1406-stone-game-iii) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
+| [0968-binary-tree-cameras](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0968-binary-tree-cameras) |
 | [1306-jump-game-iii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1306-jump-game-iii) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
+| [0968-binary-tree-cameras](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0968-binary-tree-cameras) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
+| [0968-binary-tree-cameras](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0968-binary-tree-cameras) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## String Matching
 |  |
@@ -508,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
