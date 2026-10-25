@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1043-partition-array-for-maximum-sum) |
+| [1254-number-of-closed-islands](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1306-jump-game-iii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0301-remove-invalid-parentheses) |
 | [0513-find-bottom-left-tree-value](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0513-find-bottom-left-tree-value) |
+| [1254-number-of-closed-islands](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1345-jump-game-iv) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2685-count-the-number-of-complete-components) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0741-cherry-pickup](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1463-cherry-pickup-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1463-cherry-pickup-ii) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0572-subtree-of-another-tree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0968-binary-tree-cameras](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0968-binary-tree-cameras) |
+| [1254-number-of-closed-islands](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1306-jump-game-iii) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
