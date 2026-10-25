@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0055-jump-game) |
 | [0312-burst-balloons](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0312-burst-balloons) |
+| [0410-split-array-largest-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0741-cherry-pickup) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0069-sqrtx) |
+| [0410-split-array-largest-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/0410-split-array-largest-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1872-stone-game-viii) |
