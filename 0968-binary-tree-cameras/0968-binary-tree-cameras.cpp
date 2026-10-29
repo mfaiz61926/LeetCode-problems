@@ -12,25 +12,31 @@
 class Solution {
 public:
     int camera;
-    
-    int dfs(TreeNode* root){
+
+    int solve(TreeNode* root){
         if(!root) return 2;
 
-        int left = dfs(root->left);
-        int right = dfs(root->right);
+        int left = solve(root->left);
+        int right = solve(root->right);
 
         if(left == 0 || right == 0){
             camera++;
             return 1;
         }
-        else if(left == 1 || right == 1) return 2;
+
+        if(left == 1 || right == 1) {
+            return 2;
+        }
 
         return 0;
     }
-
+    
     int minCameraCover(TreeNode* root) {
         camera = 0;
-        if(dfs(root) == 0) camera++;
+        if(solve(root) == 0){
+            camera++;
+        }
+
         return camera;
     }
 };
