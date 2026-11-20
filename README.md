@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3238-find-the-number-of-winning-players](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3238-find-the-number-of-winning-players) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mfaiz61926/LeetCode-problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/mfaiz61926/LeetCode-problems/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/mfaiz61926/LeetCode-problems/tree/master/3524-find-x-value-of-array-i) |
