@@ -10,7 +10,7 @@ public:
                 long long l = 1;
                 for(int k = i; k <= j; k++){
                     p *= nums[k];
-                    if(p > 250000){
+                    if(p > 25200){
                         break;
                     }
                     g = gcd(g, nums[k]);
